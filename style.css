@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-image: url(./fotos/Desktop.png);
+    background-repeat:no-repeat;
+    background-size:cover;
+    margin:0;
+}
+.poligon{
+    margin-top: 59px;
+    margin-left: 39px;
+}
+@font-face {
+    font-family: "Inter-Bold";
+    src: url(./fonts/Inter-Bold.ttf);
+}
+.future{
+    font-family: "Inter-Bold";
+    font-weight: 700;
+    font-size: 26.5px;
+    /* identical to box height */
+    text-transform: uppercase;
+    color: #D6D6D6;
+    margin-top: 90.07px;
+    margin-left: 48px;
+}
+@font-face {
+    font-family: "MonumentExtended-Ultrabold";
+    src: url(./fonts/MonumentExtended-Ultrabold.otf) 
+}
+h1{
+    font-family: "MonumentExtended-Ultrabold";
+    font-weight: 900;
+    font-size: 166.854px;
+    letter-spacing: -0.02em;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #FFFFFF;
+    color: transparent;
+    margin-top: 0px;
+    margin-left: 39px;
+}
+@font-face {
+    font-family: "Inter-Regular";
+    src: url(./fonts/Inter-Regular.ttf);
+}
+.box{
+    font-family: "Inter-Regular";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-top: 180px;
+    margin-left: 20px;
+}
